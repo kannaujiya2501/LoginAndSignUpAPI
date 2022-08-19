@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Mastek project\\Siddharth\\singh\\API\\API.csproj": {}
+    "D:\\Mastek project\\Siddharth\\singh\\API\\API.csproj": {}
   },
   "projects": {
-    "d:\\Mastek project\\Siddharth\\singh\\API\\API.csproj": {
+    "D:\\Mastek project\\Siddharth\\singh\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Mastek project\\Siddharth\\singh\\API\\API.csproj",
+        "projectUniqueName": "D:\\Mastek project\\Siddharth\\singh\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "d:\\Mastek project\\Siddharth\\singh\\API\\API.csproj",
+        "projectPath": "D:\\Mastek project\\Siddharth\\singh\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Vishal15570\\.nuget\\packages\\",
-        "outputPath": "d:\\Mastek project\\Siddharth\\singh\\API\\obj\\",
+        "outputPath": "D:\\Mastek project\\Siddharth\\singh\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vishal15570\\AppData\\Roaming\\NuGet\\NuGet.Config"
